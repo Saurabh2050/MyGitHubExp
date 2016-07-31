@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "234386774608",
+    "firebase_url": "https://fmctest-374eb.firebaseio.com",
+    "project_id": "fmctest-374eb",
+    "storage_bucket": "fmctest-374eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234386774608:android:3ffd3e1027e8d7e6",
+        "android_client_info": {
+          "package_name": "com.example.android.mygithubexp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234386774608-iqachi33n4307bb8j086i80u01rqijg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLEocrOCBLpANqAvF8_gQmIGpfR7dVZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
